@@ -1,0 +1,132 @@
+.container {
+	border: 2px solid #9294ea;
+	margin-top: 45px;
+	margin-bottom: 45px;
+	background: #ff902d;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+.row {
+	margin-top: 20px;
+	font-size: 30px;
+	margin-top: 60px;
+}
+
+.form-control, #sizing-addon1 {
+	background: #9fc5e0;
+	color: black;
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+
+}
+
+/* change Placeholder color */
+.form-control::-moz-placeholder {
+	color: black;
+	opacity: .25;
+}
+
+.btn.btn-primary, .btn.btn-info { /*Submit button */
+	font-size: 30px;
+	margin-top: 20px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+.label.label-primary {
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+.fa-chevron-circle-down {
+	display: none;
+	transform: scale(2);
+}
+
+.fa.fa-check {
+	display: none;
+	transform: scale(2);
+}
+
+
+body{
+	background: #9fc5e0;
+}
+
+h1 {
+	text-align: center;
+	font-size: 80px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+ul {
+	list-style: none;
+	margin-left: 3.4%;
+	padding: 0;
+	text-align: center;
+}
+
+li {
+	background: #9fc5e0;
+	color: #666;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	
+}
+
+input[type=checkbox] {
+	transform: scale(2);
+	margin-left: 10px;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+#underline {
+	border-bottom: 2px solid gray;
+	width: 700px;
+	margin-left: 220px;
+	color: #9db9e0;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+#single_sku {
+	padding-left: 350px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+
+}
+
+#multi_sku {
+	padding-left: 50px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+h1 {
+	text-align: center;
+	font-size: 80px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+body{
+	background: #9fc5e0;
+}
+
+p {
+	border-bottom: 2px solid gray;
+	width: 300px;
+	margin-left: 410px;
+	color: #9db9e0;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+.container {
+	border: 2px solid #9294ea;
+	margin-top: 45px;
+	background: #ff902d;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+.btn.btn-primary, .btn.btn-info  {
+	font-size: 40px;
+	margin-top: 50px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+.btn.btn-danger {
+	font-size: 40px;
+	margin-top: 50px;
+	margin-bottom: 70px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+/*---------- Media Queries---------------*/
+
+/* Medium devices (desktops, 992px and up) */
+/*@media screen and (max-width: 992px) { 
+	p{
+		width: 350px;
+		margin-left: 180px;
+	}
+ }
+*/
+ /* Medium devices (desktops, 992px and up) */
+/*@media screen and (min-width: 768px) { 
+	p{
+		width: 350px;
+		margin-left: 300px;
+	}
+ }*/
+
+/* Small devices (tablets, 768px and up) */
+/*@media screen and (max-width: 768px) { 
+	p{
+		width: 350px;
+		margin-left: 3px;
+	}
+}*/
+/* Small devices (tablets, 768px and up) */
+/*@media screen and (min-width: 300px) { 
+	p{
+		width: 350px;
+		margin-left: 180px;
+	}
+}*/
+
+
+
+

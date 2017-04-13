@@ -1,0 +1,61 @@
+body{
+	background: #9fc5e0;
+}
+
+.container {
+	border: 2px solid #9294ea;
+	margin-top: 45px;
+	background: #ff902d;
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+.alert.alert-success {
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	text-align: center;
+	margin-left: -16px;
+	margin-right: -16px;
+}
+
+.btn.btn-primary {
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
+#pallet_num{
+	background: orange;
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	box-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+	font-size: 30px;
+	height: 79px;
+	margin-top: 50px;
+	padding-top: 13px;
+}
+
+#number {
+	text-align: center;
+	font-size: 90px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.4);
+}
+
